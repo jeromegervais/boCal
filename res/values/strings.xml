@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BoCal</string>
+    <string name="action_settings">Settings</string>
+    <string name="Log_click">Click effectué</string>
+    <string name="emptyRdv">Vous devez saisir un message</string>
+    <string name="day_time">Journée</string>
+    <string name="evening">Soirée</string>
+    <string name="result">Résultat</string>
+    <string name="empty"></string>
+    <string name="detail">Detail</string>
+    <string name="choose_date">Choisir</string>
+    <string name="to_left">&lt;</string>
+    <string name="to_right">&gt;</string>
+    <string name="today">Ajd</string>
+    <string name="add">+</string>
+    <string name="remove">Supprimer</string>
+    <string name="remove_rdv_message">%s, etes vous sur de vouloir supprimer ce rendez-vous ?</string>
+    <string name="newDate">changer date</string>
+    <string name="anonymous">Anonyme</string>
+</resources>
